@@ -12,3 +12,5 @@
 未來，我們也會在此模型基礎上，設計開發更多的配件和應用上的玩法，到時候也會與大家分享。
 
 <img src="https://github.com/chimingliao/VTubersCabin/blob/main/%E5%85%A8%E6%81%AF%E7%BD%90-%E6%96%9C%E4%BE%A7%E9%9D%A2.jpg" width=25% hight=25% >
+<img src="https://github.com/chimingliao/VTubersCabin/blob/main/%E5%85%A8%E6%81%AF%E7%BD%90-%E6%AD%A3%E9%9D%A2.jpg" width=25% hight=25% >
+<img src="https://github.com/chimingliao/VTubersCabin/blob/main/%E5%85%A8%E6%81%AF%E7%BD%90-%E4%BE%A7%E9%9D%A2.jpg" width=25% hight=25% >
